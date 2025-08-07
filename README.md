@@ -1,4 +1,2 @@
 # Project
 "Hello World"
-hii
-
